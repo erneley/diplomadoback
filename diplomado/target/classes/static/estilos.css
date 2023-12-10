@@ -1,0 +1,22 @@
+#central{
+    display:flex;
+}
+#izq{
+    width:30%;
+
+}
+
+#der{
+    width:70%;
+    align-items:center;
+    place-items:inherit;
+    
+}
+body{
+    background-color:darkgray
+}
+
+img{
+    margin-top: 100px;
+    margin-left: 20%;
+}
